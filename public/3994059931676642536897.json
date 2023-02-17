@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84278885403",
+    "project_id": "channel77-studio",
+    "storage_bucket": "channel77-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84278885403:android:bb70bee3ce202d6c33ccbe",
+        "android_client_info": {
+          "package_name": "com.channel77.cekbansosdtkskemensos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84278885403-dp8i5rm1s3lj1fs50o8lps8gsiffi69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLnmJE57HTMGdU3VV2V6IdSP-DUfg4E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84278885403-dp8i5rm1s3lj1fs50o8lps8gsiffi69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
